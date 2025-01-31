@@ -8,7 +8,7 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: "Tic Tac Toe",
+  title: "Tic-Tac-Toe",
   description: "Tic Tac Toe using Next",
 };
 
