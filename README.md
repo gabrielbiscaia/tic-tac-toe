@@ -1,5 +1,7 @@
 # Tic-Tac-Toe
 
+![image](https://github.com/user-attachments/assets/28f19adc-ae83-4530-92cb-f2eac42e755a)
+
 ## 🔗 Link
 https://tic-tac-toe.gabrielbiscaia.com.br/
 
